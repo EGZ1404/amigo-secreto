@@ -12,7 +12,7 @@ function agregarAmigo() {
     //Elimina espacios innecesarios
     const nombre = input.value.trim();
 
-    //Valida del campo, si esta vacio alerta para
+    //Valida el campo, si esta vacio alerta para
     //ingresar un nombre
     if (nombre === '') {
         alert('Debes ingresar el nombre de un amigo');
