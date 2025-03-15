@@ -80,10 +80,3 @@ function reiniciarSorteo() {
     botonSortear.innerHTML = "Sortear amigo";
     botonSortear.dataset.estado = "sortear";
 }
-echo "# amigo-secreto-main" >> README.md 
-git init 
-git add README.md 
-git commit -m "primer commit" 
-git branch -M main 
-git remote add origin https://github.com/EGZ1404/amigo-secreto-main.git
- git push -u origin main
